@@ -1,4 +1,12 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/113813482/214464547-8694c2c6-954e-4fa0-8b12-01ead3c3cf4a.png)
+
+
+
+
+
+
+
 
 <!--
 **Januha88/januha88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
