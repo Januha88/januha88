@@ -10,10 +10,10 @@ mi constante curiosidad he podido aportar valiosas soluciones a mi equipo de tra
 de Laboratoria en los diversos proyectos realizados.
 
 ### Habilidades 🌱
-*Lenguajes: JavaScript (ES6), CSS, HTML.
-*Tecnologías: Node.js, Unit Testing.
-*Herramientas: Git, Github, NPM, Terminal, Figma.
-*Metodologías Ágiles: SCRUM.
++ Lenguajes: JavaScript (ES6), CSS, HTML.
++ Tecnologías: Node.js, Unit Testing.
++ Herramientas: Git, Github, NPM, Terminal, Figma.
++ Metodologías Ágiles: SCRUM.
 
 ###  Actualmente trabajo en:
 Biblioteca ejecutable desarrollada con Node.js que permite a los usuarios identificar y validar enlaces mientras informa estadísticas de archivos Markdown. (Node.js, JavaScript, Pruebas unitarias)
